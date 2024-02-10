@@ -7,12 +7,9 @@ function filterArray(numbers, value) {
     }
         return num;
 }
-    
+   
 
-        
-      
-
-     
+   
 filterArray([1, 2, 3, 4, 5], 3);                      
 filterArray([1, 2, 3, 4, 5], 4);
 filterArray([1, 2, 3, 4, 5], 5);
